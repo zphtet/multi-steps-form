@@ -1,6 +1,6 @@
 ## Multi Step Form
 
-** Frontend Mentor Challenge **
+**Frontend Mentor Challenge**
 
 I used - 
 
