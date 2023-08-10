@@ -34,7 +34,7 @@ const Form1 = () => {
 
 	return (
 		<div>
-			<h5 className="form-title">Personal Info</h5>
+			<h5 className="form-title">Personal Infos</h5>
 			<p className="form-info-title">
 				Please provide your name , email address and phone number
 			</p>
